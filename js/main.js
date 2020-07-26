@@ -2,7 +2,7 @@
 					Js Main
 --------------------------------------------------
 
-    Template Name: Leila - Personal Portfolio Template
+    Template Name: amal - Personal Portfolio Template
     Author: Malyarchuk
     Copyright: 2019
 
