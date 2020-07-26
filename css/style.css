@@ -1017,6 +1017,7 @@ blockquote span img {
 	right: 35px;
 }
 
+
 /* Video Block */
 .about .video {
 	margin: 32px 0;
@@ -1409,6 +1410,11 @@ blockquote span img {
 .resume .work-process .dots.bottom-r {
 	right: 0px;
 }
+
+.resume .btn-download-resume {
+text-align: center;
+margin: 10px;
+} 
 
 /* ---------------------------------
 		7. Portfolio Section 
