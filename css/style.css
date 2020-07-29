@@ -661,11 +661,13 @@ blockquote span img {
 }
 
 .menu .but-menu .line-top {
-	top: -20px;
+	top: -25px;
+	opacity: 0.7;
 }
 
 .menu .but-menu .line-bottom {
-	top: 20px;
+	top: 25px;
+	opacity: 0.7;
 }
 
 .menu .menu-toggle .line-top {
@@ -673,6 +675,7 @@ blockquote span img {
 	-webkit-transform: rotate(45deg);
 	-ms-transform: rotate(45deg);
 	transform: rotate(45deg);
+	opacity: 1;
 }
 
 .menu .menu-toggle .line-middle {
@@ -684,6 +687,7 @@ blockquote span img {
 	-webkit-transform: rotate(-45deg);
 	-ms-transform: rotate(-45deg);
 	transform: rotate(-45deg);
+	opacity: 1;
 }
 
 .menu .menu-item i {
