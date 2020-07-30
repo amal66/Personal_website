@@ -883,6 +883,14 @@ blockquote span img {
 	z-index: 1;
 }
 
+.home ul#social-icons li {
+	display: inline; 
+	margin: 10px;
+}
+
+.home ul#social-icons i {
+	display: inline; 
+}
 /* Addition Background */
 .addition-bg {
  	position: absolute;
